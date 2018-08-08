@@ -28,5 +28,4 @@ function sayHiToGrandma(string) {
   return("string");
 }
 
-console.log(sayHiToGrandma);
-
+console.log(sayHiToGrandma("sample text"));
