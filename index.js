@@ -3,4 +3,8 @@ function shout(string) {
   return shouting
 }
 
-console.log(shout("lalala"));
+//console.log(shout("lalala"));
+
+function whisper(string) {
+  return string.toLowerCase();
+}
