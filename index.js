@@ -1,6 +1,6 @@
 function shout(string) {
-  var string = string.toUpperCase;
-  return string
+  var shouting = string.toUpperCase;
+  return shouting
 }
 
 console.log(shout("lalala"));
